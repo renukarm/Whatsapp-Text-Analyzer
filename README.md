@@ -6,3 +6,5 @@
 * Go to your prospective contact, in options select more.
 * Then select export chat, opt for exclude media
 * You'll get a text file.
+
+link to the list of stopwords: https://gist.github.com/sebleier/554280
